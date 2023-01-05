@@ -1,0 +1,29 @@
+#pre-header{
+    padding-top: 1rem;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    border-top: 3px solid rgb(216, 214, 214);
+    background-color: #ffffff;
+}
+#pre-header p, #pre-header a{
+    color: rgb(121, 121, 121);
+    font-weight: 600;
+    text-decoration-color: rgb(58, 183, 214);
+}
+#pre-header span{
+    color:rgb(58, 183, 214);
+}
+#credits{
+    text-align: center;
+    background-color: #ffffff;
+    padding-bottom: 1rem;
+    
+}
+#credits a{
+    color: rgb(121, 121, 121);
+    font-weight: 600;
+    font-size: 15px;
+    text-decoration: none;
+}

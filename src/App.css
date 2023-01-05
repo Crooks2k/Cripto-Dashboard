@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(250, 252, 254)!important;
+}
+#first-tittle{
+    margin-top: 1.5rem;
+    text-align: center;
+    color: rgb(121, 121, 121);
+    margin-bottom: 1.5rem;
+}

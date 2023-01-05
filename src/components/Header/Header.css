@@ -1,0 +1,30 @@
+#NavBar-nav{
+    background-color: #ffffff;
+    margin-bottom: 0rem!important;
+    padding: 0;
+    border-bottom: 3px solid rgb(216, 214, 214);
+    border-top: 3px solid rgb(216, 214, 214);
+}
+#NavBar-colors a{
+    color:rgb(58, 183, 214);
+    letter-spacing: 1.2px;
+    margin-left: 0.5rem;
+    padding-bottom: 0.1rem;
+    padding-top: 0.1rem;
+    margin-left: 0.2rem;
+    margin-right: 0.15rem;
+    font-weight: 700;
+    text-decoration: none;
+}
+#NavBar-colors a:hover{
+    transform: scale(1.1);
+    color:rgb(33, 139, 165);
+}
+#offcanvas-body{
+    background-color: #ffffff;
+    text-align: center;
+    padding: 1rem;
+}
+#offcanvas-body-act{
+    background-color: #16161A;
+}
